@@ -41,6 +41,15 @@ paper list for dialogue system
 - Obtaining Reliable Human Ratings of Valence, Arousal, and Dominance for 20,000 English Words, ACL-18, [[paper]](https://aclweb.org/anthology/P18-1017)
 - SentiCap: Generating Image Descriptions with Sentiments, AAAI-16, [[paper]](https://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/download/12501/12132)
 
+### Hierarchical
+- Building End-To-End Dialogue Systems
+Using Generative Hierarchical Neural Network Models, [[paper]](https://arxiv.org/pdf/1507.04808.pdf)
+- A Hierarchical Latent Variable Encoder-Decoder
+Model for Generating Dialogues, [[paper]](https://arxiv.org/pdf/1605.06069.pdf)
+- Hierarchical Recurrent Attention Network for Response Generation, [[paper]](https://arxiv.org/pdf/1701.07149.pdf)
+- Variational Autoregressive Decoder for Neural Response Generation, [[paper]](https://aclweb.org/anthology/D18-1354)
+- Hierarchical Text Generation and Planning for Strategic Dialogue, [[paper]](https://arxiv.org/pdf/1712.05846)
+
 ### emotional Text Generation
 - Affect-LM A Neural Language Model for Customizable Affective Text Generation, ACL-17[[paper]](https://aclanthology.info/papers/P17-1059/p17-1059)
 
