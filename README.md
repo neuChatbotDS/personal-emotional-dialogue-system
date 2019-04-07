@@ -54,20 +54,21 @@ paper list for dialogue system
 - Learning Sentence Ordering for Opinion Generation of Debate, ACL-15, [[paper]](http://www.aclweb.org/anthology/W15-0512)
 - Neural Network-Based Abstract Generation for Opinions and Arguments, ACL-16, [[paper]](https://aclanthology.info/papers/N16-1007/n16-1007)
 - On Natural Language Generation of Formal Argumentation, [[paper]](https://arxiv.org/abs/1706.04033)
+
 ### Pascale Fung
-- A first look into a Convolutional Neural Network for speech emotion detection [link](Fung/A first look into a Convolutional Neural Network for speech emotion detection.pdf)
-- A Long Short-Term Memory Framework for Predicting Humor in Dialogues
-- Bilingual Word Embeddings for Cross-Lingual Personality Recognition Using Convolutional Neural Nets
-- Emojive! Collecting Emotion Data from Speech and Facial Expression Using Mobile Game App
-- Fine Grained Knowledge Transfer for Personalized Task-oriented Dialogue Systems
+- A first look into a Convolutional Neural Network for speech emotion detection, [[paper]](https://ieeexplore.ieee.org/document/7953131)
+- A Long Short-Term Memory Framework for Predicting Humor in Dialogues, [[paper]](https://www.aclweb.org/anthology/N16-1016)
+- Bilingual Word Embeddings for Cross-Lingual Personality Recognition Using Convolutional Neural Nets, [[paper]](https://pdfs.semanticscholar.org/b377/5a38a09fb0a047d0fdfcea87669444a4f8cb.pdf)
+- Emojive! Collecting Emotion Data from Speech and Facial Expression Using Mobile Game App, [[paper]](https://pdfs.semanticscholar.org/fea0/f385a0023c7096fcd7c9e2109d9e3358b03a.pdf)
+- Fine Grained Knowledge Transfer for Personalized Task-oriented Dialogue Systems, [[paper]](https://arxiv.org/abs/1711.04079)
 - Nora the Empathetic Psychologist
-Predicting humor response in dialogues from TV sitcoms
-- Real-Time Speech Emotion and Sentiment Recognition for Interactive Dialogue Systems
-- Towards Empathetic Human-Robot Interactions
-- Zara An Empathetic Interactive Virtual Agent
-- Zara A Virtual Interactive Dialogue System Incorporating Emotion, Sentiment and Personality Recognition
-- Zara Returns Improved Personality Induction and Adaptation by an Empathetic Virtual Agent
-- Zara The Supergirl An Empathetic Personality Recognition System
+Predicting humor response in dialogues from TV sitcoms, [[paper]](https://pdfs.semanticscholar.org/f887/8695404c14d1448908d5d599daf2548903d3.pdf)
+- Real-Time Speech Emotion and Sentiment Recognition for Interactive Dialogue Systems, [[paper]](https://aclweb.org/anthology/D16-1110)
+- Towards Empathetic Human-Robot Interactions, [[paper]](https://arxiv.org/abs/1605.04072)
+- Zara An Empathetic Interactive Virtual Agent, [[paper]](https://pdfs.semanticscholar.org/053e/ab53e12c4c65f97d3fc41bdb8f71bc6334a1.pdf)
+- Zara A Virtual Interactive Dialogue System Incorporating Emotion, Sentiment and Personality Recognition, [[paper]](http://aclweb.org/anthology/C16-2058)
+- Zara Returns Improved Personality Induction and Adaptation by an Empathetic Virtual Agent, [[paper]](https://aclanthology.info/papers/P17-4021/p17-4021)
+- Zara The Supergirl An Empathetic Personality Recognition System, [[paper]](https://aclanthology.info/papers/N16-3018/n16-3018)
 
 ## others
 - A Knowledge-Grounded Neural Conversation Model, AAAI-2018, [[paper]](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16710/16057)
