@@ -3,6 +3,7 @@
 paper list for dialogue system
 
 ## Personalized Dialog
+- Towards Knowledge-Based Personalized Product Description Generation in E-commerce, SIGKDD-2019, [[paper]](https://arxiv.org/pdf/1903.12457.pdf)
 - Personalized Dialogue Generation with Diversified Traits, arxiv-2019, [[paper]](https://arxiv.org/pdf/1901.09672)
 - Learning Personalized End-to-End Goal-Oriented Dialog, AAAI-2019, [[paper]](https://arxiv.org/pdf/1811.04604)
 - Engaging Image Chat Modeling Personality in Grounded Dialogue, arxiv-2019, [[paper]](https://arxiv.org/pdf/1811.00945)
