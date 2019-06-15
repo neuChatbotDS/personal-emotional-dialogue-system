@@ -3,6 +3,7 @@
 paper list for dialogue system
 
 ## Personalized Dialog
+- Exploiting Persona Information for Diverse Generation of Conversational Responses, IJCAI-2019, [[paper]](https://arxiv.org/pdf/1905.12188.pdf)
 - Knowledge Aware Conversation Generation with Reasoning on Augmented Graph, arxiv-2019, [[paper]](https://arxiv.org/pdf/1903.10245.pdf)
 - Towards Knowledge-Based Personalized Product Description Generation in E-commerce, SIGKDD-2019, [[paper]](https://arxiv.org/pdf/1903.12457.pdf)
 - Personalized Dialogue Generation with Diversified Traits, arxiv-2019, [[paper]](https://arxiv.org/pdf/1901.09672)
