@@ -3,6 +3,7 @@
 paper list for dialogue system
 
 ## Personalized Dialog
+- A Pre-training Based Personalized Dialogue Generation Model with Persona-sparse Data , AAAI-2020, [[paper]](https://arxiv.org/pdf/1911.04700.pdf)
 - Learning to Select Knowledge for Response Generation in Dialog Systems, IJCAI-2019, [[paper]](https://www.ijcai.org/proceedings/2019/0706.pdf)
 - Exploiting Persona Information for Diverse Generation of Conversational Responses, IJCAI-2019, [[paper]](https://www.ijcai.org/proceedings/2019/0721.pdf)
 - Knowledge Aware Conversation Generation with Reasoning on Augmented Graph, arxiv-2019, [[paper]](https://arxiv.org/pdf/1903.10245.pdf)
