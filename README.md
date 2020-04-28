@@ -15,7 +15,6 @@ paper list for dialogue system
 - Learning Personalized End-to-End Goal-Oriented Dialog, AAAI-2019, [[paper]](https://arxiv.org/pdf/1811.04604)
 - Engaging Image Chat Modeling Personality in Grounded Dialogue, arxiv-2019, [[paper]](https://arxiv.org/pdf/1811.00945)
 - Assigning Personality Profile to a Chatting Machine for Coherent Conversation Generation, IJCAI-2018, [[paper]](https://www.ijcai.org/proceedings/2018/0595)
-- Personalizing a Dialogue System With Transfer Reinforcement Learning, AAAI-2018, [[paper]](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16104/16083)
 - Neural Personalized Response Generation asDomain Adaptation, WWWJ-2018, [[paper]](https://arxiv.org/pdf/1701.02073)
 - Personalizing Dialogue Agents: I have a dog, do you have pets too? ACL-2018, [[paper]](https://www.aclweb.org/anthology/P18-1205)
 - Learning Personas from Dialogue with Attentive Memory Networks, EMNLP-2018, [[paper]](https://www.aclweb.org/anthology/D18-1284)
