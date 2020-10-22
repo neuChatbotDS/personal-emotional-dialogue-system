@@ -4,6 +4,7 @@ paper list for dialogue system
 
 ## Personalized Dialog
 
+- Generate, Delete and Rewrite: A Three-Stage Framework for Improving Persona Consistency of Dialogue Generation, ACL-2020, [[paper]](https://www.aclweb.org/anthology/2020.acl-main.516.pdf)
 - A Neural Topical Expansion Framework for Unstructured Persona-oriented Dialogue Generation, arxiv-2020, [[paper]](https://arxiv.org/pdf/2002.02153)
 - A Pre-training Based Personalized Dialogue Generation Model with Persona-sparse Data , AAAI-2020, [[paper]](https://arxiv.org/pdf/1911.04700.pdf)
 - Personalizing Dialogue Agents via Meta-Learning, ACL-2019, [[paper]](https://www.aclweb.org/anthology/P19-1542.pdf)
@@ -29,17 +30,14 @@ paper list for dialogue system
 - Personalization in Goal-oriented Dialog, NIPS-2017, [[paper]](https://arxiv.org/pdf/1706.07503)
 - Exploring Personalized Neural Conversational Models, IJCAI-2017, [[paper]](https://www.ijcai.org/proceedings/2017/0521)
 - Towards User Personality Profiling from Multiple Social Networks, AAAI-2017, [[paper]](https://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14731/14149)
-
 - A Persona-Based Neural Conversation Model, ACL-2016, [[paper]](https://www.aclweb.org/anthology/P16-1094)
 - On the Evaluation of Dialogue Systems with Next Utterance Classification, SIGDIAL-2016, [[paper]](https://www.aclweb.org/anthology/W16-3634)
 - Conversational Contextual Cues: The Case of Personalization and History for Response Ranking, arxiv-2016, [[paper]](https://arxiv.org/pdf/1606.00372)
 - A Personality-based Framework for Utterance Generation in Dialogue Applications, AAAI Spring-2008, [[paper]](http://www.aaai.org/Papers/Symposia/Spring/2008/SS-08-04/SS08-04-014)
 - PERSONAGE: Personality Generation for Dialogue, ACL-2007, [[paper]](https://aclweb.org/anthology/P07-1063)
 
+## Emotional Dialog
 
-
-
-## emotional Dialog
 - A Syntactically Constrained Bidirectional-Asynchronous Approach for Emotional Conversation Generation, EMNLP-2018, [[paper]](https://www.aclweb.org/anthology/D18-1071)
 - Emotional Chatting Machine Emotional Conversation Generation with Internal and External Memory,AAAI-18, [[paper]](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/download/16455/15753)
 - MOJITALK Generating Emotional Responses at Scale ,ACL-18, [[paper]](https://aclweb.org/anthology/P18-1104)
@@ -50,6 +48,7 @@ paper list for dialogue system
 - SentiCap: Generating Image Descriptions with Sentiments, AAAI-16, [[paper]](https://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/download/12501/12132)
 
 ### Hierarchical
+
 - Building End-To-End Dialogue Systems
 Using Generative Hierarchical Neural Network Models, [[paper]](https://arxiv.org/pdf/1507.04808.pdf)
 - A Hierarchical Latent Variable Encoder-Decoder
@@ -58,14 +57,18 @@ Model for Generating Dialogues, [[paper]](https://arxiv.org/pdf/1605.06069.pdf)
 - Variational Autoregressive Decoder for Neural Response Generation, [[paper]](https://aclweb.org/anthology/D18-1354)
 - Hierarchical Text Generation and Planning for Strategic Dialogue, [[paper]](https://arxiv.org/pdf/1712.05846)
 
-### emotional Text Generation
+### Emotional Text Generation
+
 - Affect-LM A Neural Language Model for Customizable Affective Text Generation, ACL-17[[paper]](https://aclanthology.info/papers/P17-1059/p17-1059)
 
-### generate Reviews
+### Generate Reviews
+
 - Learning to Generate Reviews and Discovering Sentiment, [[paper]](https://arxiv.org/pdf/1704.01444)
 - Learning to Generate Product Reviews from Attributes ,EACL-17, [[paper]](http://www.aclweb.org/anthology/E17-1059)
 - Towards Automatic Generation of Product Reviews from Aspect-Sentiment Scores, ACL-17, [[paper]](http://www.aclweb.org/anthology/W17-3526)
+
 ### Debates
+
 - Detecting Perspectives in Political Debates, ACL-17, [[paper]](https://aclweb.org/anthology/D17-1165)
 - End-to-end Argument Generation System in Debating., ACL-15, [[paper]](https://aclanthology.coli.uni-saarland.de/papers/P15-4019/p15-4019)
 - Learning Sentence Ordering for Opinion Generation of Debate, ACL-15, [[paper]](http://www.aclweb.org/anthology/W15-0512)
@@ -73,6 +76,7 @@ Model for Generating Dialogues, [[paper]](https://arxiv.org/pdf/1605.06069.pdf)
 - On Natural Language Generation of Formal Argumentation, [[paper]](https://arxiv.org/abs/1706.04033)
 
 ### Pascale Fung
+
 - A first look into a Convolutional Neural Network for speech emotion detection, [[paper]](https://ieeexplore.ieee.org/document/7953131)
 - A Long Short-Term Memory Framework for Predicting Humor in Dialogues, [[paper]](https://www.aclweb.org/anthology/N16-1016)
 - Bilingual Word Embeddings for Cross-Lingual Personality Recognition Using Convolutional Neural Nets, [[paper]](https://pdfs.semanticscholar.org/b377/5a38a09fb0a047d0fdfcea87669444a4f8cb.pdf)
@@ -87,7 +91,8 @@ Predicting humor response in dialogues from TV sitcoms, [[paper]](https://pdfs.s
 - Zara Returns Improved Personality Induction and Adaptation by an Empathetic Virtual Agent, [[paper]](https://aclanthology.info/papers/P17-4021/p17-4021)
 - Zara The Supergirl An Empathetic Personality Recognition System, [[paper]](https://aclanthology.info/papers/N16-3018/n16-3018)
 
-## others
+## Others
+
 - A Knowledge-Grounded Neural Conversation Model, AAAI-2018, [[paper]](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16710/16057)
 - Online Deep Learning: Learning Deep Neural Networks on the Fly, IJCAI-2018, [[paper]](https://www.ijcai.org/proceedings/2018/0369)
 - Learning Differentially Private Recurrent Language Models, ICLR-2018, [[paper]](https://openreview.net/pdf?id=BJ0hF1Z0b)
@@ -96,5 +101,6 @@ Predicting humor response in dialogues from TV sitcoms, [[paper]](https://pdfs.s
 - Controllable Text Generation, [[paper]](https://arxiv.org/pdf/1703.00955)
 
 ## Dataset
+
 - I KNOW THE FEELING LEARNING TO CONVERSE WITH EMPATHY, [[paper]](https://arxiv.org/abs/1811.00207)
 - DailyDialog: A Manually Labelled Multi-turn Dialogue Dataset, IJCNLP-2017, [[paper]](https://www.aclweb.org/anthology/I17-1099)
