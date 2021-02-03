@@ -36,6 +36,12 @@ paper list for dialogue system
 - A Personality-based Framework for Utterance Generation in Dialogue Applications, AAAI Spring-2008, [[paper]](http://www.aaai.org/Papers/Symposia/Spring/2008/SS-08-04/SS08-04-014)
 - PERSONAGE: Personality Generation for Dialogue, ACL-2007, [[paper]](https://aclweb.org/anthology/P07-1063)
 
+## MultiParty Dialog
+
+- Infusing Multi-Source Knowledge with Heterogeneous Graph Neural Network for Emotional Conversation Generation, AAAI-2021, [[paper]](https://arxiv.org/abs/2012.04882)
+- GSN: A Graph-Structured Network for Multi-Party Dialogues, IJCAI-2019, [[paper]](https://doi.org/10.24963/ijcai.2019/696)
+- Addressee and Response Selection in Multi-Party Conversations with Speaker Interaction RNNs, AAAI-2018, [[paper]](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16051)
+
 ## Emotional Dialog
 
 - A Syntactically Constrained Bidirectional-Asynchronous Approach for Emotional Conversation Generation, EMNLP-2018, [[paper]](https://www.aclweb.org/anthology/D18-1071)
