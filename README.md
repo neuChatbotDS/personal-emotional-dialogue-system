@@ -45,8 +45,10 @@ paper list for dialogue system
 
 ## Emotional Dialog
 
+- EmpDG: Multi-resolution Interactive Empathetic Dialogue Generation, COLING-2020, [[paper]](https://www.aclweb.org/anthology/2020.coling-main.394.pdf)
+- CDL: Curriculum Dual Learning for Emotion-Controllable Response Generation, ACL-2020, [[paper]](https://www.aclweb.org/anthology/2020.acl-main.52.pdf)
 - A Syntactically Constrained Bidirectional-Asynchronous Approach for Emotional Conversation Generation, EMNLP-2018, [[paper]](https://www.aclweb.org/anthology/D18-1071)
-- Emotional Chatting Machine Emotional Conversation Generation with Internal and External Memory,AAAI-18, [[paper]](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/download/16455/15753)
+- Emotional Chatting Machine: Emotional Conversation Generation with Internal and External Memory,AAAI-18, [[paper]](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/download/16455/15753)
 - MOJITALK Generating Emotional Responses at Scale ,ACL-18, [[paper]](https://aclweb.org/anthology/P18-1104)
 - Affective Neural Response Generation, [[paper]](https://arxiv.org/abs/1709.03968)
 - Eliciting positive emotion through affect-sensitive dialogue response generation A neural network approach, [[paper]](https://pdfs.semanticscholar.org/14ff/61c5df037e4150932ca32b23e41a5f84a8ed)
@@ -100,6 +102,8 @@ Predicting humor response in dialogues from TV sitcoms, [[paper]](https://pdfs.s
 
 ## Others
 
+- Modeling Label Semantics for Predicting Emotional Reactions, ACL-2020, [[paper]](https://www.aclweb.org/anthology/2020.acl-main.426.pdf)
+- Modeling Naive Psychology of Characters in Simple Commonsense Stories, ACL-2018, [[paper]](https://www.aclweb.org/anthology/P18-1213.pdf)
 - A Knowledge-Grounded Neural Conversation Model, AAAI-2018, [[paper]](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16710/16057)
 - Online Deep Learning: Learning Deep Neural Networks on the Fly, IJCAI-2018, [[paper]](https://www.ijcai.org/proceedings/2018/0369)
 - Learning Differentially Private Recurrent Language Models, ICLR-2018, [[paper]](https://openreview.net/pdf?id=BJ0hF1Z0b)
@@ -109,5 +113,6 @@ Predicting humor response in dialogues from TV sitcoms, [[paper]](https://pdfs.s
 
 ## Dataset
 
+- A Large-Scale Chinese Short-Text Conversation Dataset, NLPCC-2020, [[paper]](https://arxiv.org/pdf/2008.03946.pdf)
 - I KNOW THE FEELING LEARNING TO CONVERSE WITH EMPATHY, [[paper]](https://arxiv.org/abs/1811.00207)
 - DailyDialog: A Manually Labelled Multi-turn Dialogue Dataset, IJCNLP-2017, [[paper]](https://www.aclweb.org/anthology/I17-1099)
