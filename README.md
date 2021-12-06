@@ -3,7 +3,7 @@
 paper list for dialogue system
 
 ## Personalized Dialog
-
+- Like hiking? You probably enjoy nature:Persona-grounded Dialog with Commonsense Expansions, EMNLP-2020, [[paper]](https://arxiv.org/pdf/2010.03205.pdf)
 - Proﬁle Consistency Identiﬁcation for Open-domain Dialogue Agents, EMNLP-2020, [[paper]](https://www.aclweb.org/anthology/2020.emnlp-main.539.pdf)
 - Generate, Delete and Rewrite: A Three-Stage Framework for Improving Persona Consistency of Dialogue Generation, ACL-2020, [[paper]](https://www.aclweb.org/anthology/2020.acl-main.516.pdf)
 - A Neural Topical Expansion Framework for Unstructured Persona-oriented Dialogue Generation, arxiv-2020, [[paper]](https://arxiv.org/pdf/2002.02153)
