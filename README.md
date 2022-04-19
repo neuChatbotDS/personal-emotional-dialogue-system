@@ -49,6 +49,7 @@ paper list for dialogue system
 
 ## Emotional Dialog
 
+- CARE: Commonsense-Aware Emotional Response Generation with Latent Concepts, AAAI 2021,[[paper]](https://arxiv.org/abs/2012.08377)
 - EmpDG: Multi-resolution Interactive Empathetic Dialogue Generation, COLING-2020, [[paper]](https://www.aclweb.org/anthology/2020.coling-main.394.pdf)
 - CDL: Curriculum Dual Learning for Emotion-Controllable Response Generation, ACL-2020, [[paper]](https://www.aclweb.org/anthology/2020.acl-main.52.pdf)
 - A Syntactically Constrained Bidirectional-Asynchronous Approach for Emotional Conversation Generation, EMNLP-2018, [[paper]](https://www.aclweb.org/anthology/D18-1071)
@@ -59,8 +60,6 @@ paper list for dialogue system
 - Automatic Dialogue Generation with Expressed Emotions, NAACL-18, [[paper]](http://www.aclweb.org/anthology/N18-2008)
 - Obtaining Reliable Human Ratings of Valence, Arousal, and Dominance for 20,000 English Words, ACL-18, [[paper]](https://aclweb.org/anthology/P18-1017)
 - SentiCap: Generating Image Descriptions with Sentiments, AAAI-16, [[paper]](https://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/download/12501/12132)
-- CARE: Commonsense-Aware Emotional Response Generation with Latent Concepts, AAAI 2021,[[paper]](https://arxiv.org/abs/2012.08377)
-
 
 ### Hierarchical
 
@@ -106,6 +105,26 @@ Predicting humor response in dialogues from TV sitcoms, [[paper]](https://pdfs.s
 - Zara Returns Improved Personality Induction and Adaptation by an Empathetic Virtual Agent, [[paper]](https://aclanthology.info/papers/P17-4021/p17-4021)
 - Zara The Supergirl An Empathetic Personality Recognition System, [[paper]](https://aclanthology.info/papers/N16-3018/n16-3018)
 
+## Empathetic Dialogue
+
+- Knowledge Bridging for Empathetic Dialogue Generation, in AAAI 2022, [[paper]](https://arxiv.org/abs/2009.09708)
+- CEM: Commonsense-aware Empathetic Response Generation, in AAAI 2022, [[paper]](https://arxiv.org/abs/2109.05739)
+- CoMAE: A Multi-factor Hierarchical Framework for Empathetic Response Generation, in ACL 2021(Findings), [[paper]](https://arxiv.org/abs/2105.08316)
+- Towards an Online Empathetic Chatbot with Emotion Causes, in SIGIR 2021, [[paper]](https://arxiv.org/abs/2105.11903)
+- [Empathic Rewriting]Towards Facilitating Empathic Conversations in Online Mental Health Support: A Reinforcement Learning Approach, in WWW 2021, [[paper]](https://arxiv.org/abs/2101.07714)
+- A Computational Approach to Understanding Empathy Expressed in Text-Based Mental Health Support, in EMNLP 2020, [[paper]](https://arxiv.org/abs/2009.08441)
+
+## Emotional Support
+
+- MISC: A MIxed Strategy-Aware Model Integrating COMET for Emotional Support Conversation, in ACL 2022, [[paper]](https://arxiv.org/abs/2203.13560)
+- Towards Emotional Support Dialog Systems, in ACL 2021, [[paper]](https://arxiv.org/abs/2106.01144)
+
+## Commonsense KnowledgeGraph
+
+- COMET: Commonsense Transformers for Automatic Knowledge Graph Construction, in ACL 2019, [[paper]](https://arxiv.org/abs/1906.05317)
+- ATOMIC: An Atlas of Machine Commonsense for If-Then Reasoning, in AAAI 2019, [[paper]](https://arxiv.org/abs/1811.00146)
+- ConceptNet 5.5: An Open Multilingual Graph of General Knowledge, in AAAI 2017, [[paper]](https://arxiv.org/abs/1612.03975)
+
 ## Others
 
 - Modeling Label Semantics for Predicting Emotional Reactions, ACL-2020, [[paper]](https://www.aclweb.org/anthology/2020.acl-main.426.pdf)
@@ -119,6 +138,7 @@ Predicting humor response in dialogues from TV sitcoms, [[paper]](https://pdfs.s
 
 ## Dataset
 
+- [Empathetic Dialogues]Towards Empathetic Open-domain Conversation Models: a New Benchmark and Dataset, ACL 2019, [[paper]](https://arxiv.org/abs/1811.00207)
 - A Large-Scale Chinese Short-Text Conversation Dataset, NLPCC-2020, [[paper]](https://arxiv.org/pdf/2008.03946.pdf)
 - I KNOW THE FEELING LEARNING TO CONVERSE WITH EMPATHY, [[paper]](https://arxiv.org/abs/1811.00207)
 - DailyDialog: A Manually Labelled Multi-turn Dialogue Dataset, IJCNLP-2017, [[paper]](https://www.aclweb.org/anthology/I17-1099)
