@@ -59,6 +59,8 @@ paper list for dialogue system
 - Automatic Dialogue Generation with Expressed Emotions, NAACL-18, [[paper]](http://www.aclweb.org/anthology/N18-2008)
 - Obtaining Reliable Human Ratings of Valence, Arousal, and Dominance for 20,000 English Words, ACL-18, [[paper]](https://aclweb.org/anthology/P18-1017)
 - SentiCap: Generating Image Descriptions with Sentiments, AAAI-16, [[paper]](https://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/download/12501/12132)
+- CARE: Commonsense-Aware Emotional Response Generation with Latent Concepts, AAAI 2021,[[paper]](https://arxiv.org/abs/2012.08377)
+
 
 ### Hierarchical
 
